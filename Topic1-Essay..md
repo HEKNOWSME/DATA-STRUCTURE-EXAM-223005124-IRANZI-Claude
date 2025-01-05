@@ -38,7 +38,7 @@ For instance, a recruitment portal can utilize singly linked lists to track the 
 As the platform grows, it must handle increasing numbers of users and datasets without compromising performance. Efficient data structures like balanced trees and distributed hash tables ensure the system remains scalable.
 
 ---
-#### Trees  
+### Trees  
 Trees, particularly binary trees and AVL trees, are impactful in organizing hierarchical data, which is common in recruitment portals. Trees, such as binary search trees, allow the organization of job listings based on various criteria like salary, job type, and required skills. By enabling fast retrieval and efficient searches, trees contribute significantly to the overall speed and effectiveness of the job matching process. For instance, job seekers can quickly filter and find relevant openings without navigating through an overabundance of information.
 
 Furthermore, in AI-based recruitment portals, trees can be leveraged alongside machine learning algorithms to provide recommendations based on an applicant’s past activities and preferences. For example, if a user frequently searches for software engineering jobs, the system can adjust the suggestions shown to them to become more tailored and contextually appropriate over time
